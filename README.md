@@ -12,3 +12,8 @@ JavaScript code to be copy-pasted into the console of https://lingojam.com/Inter
 The notebook which generates plots for the project report. This notebook is to be run in https://colab.research.google.com/. To run the script, both cola.json and cola_odd.json files need to be uploaded to colab storage first.
 
 ## Sentence similarity
+In this section we'll go over the files that are a part of the experiments for evaluating how slang influences classifying semantic similarity of sentences
+### mrpc_slang.json and mrpc_normal.txt files
+files needed to create normal to slang dictionary
+### SemanticSimilaritySlang.ipynb
+This is notebook regarding semantic similarity. The notebook which generates plots for the project report. This notebook is to be run in https://colab.research.google.com/. To run the script, both mrpc_slang.json and mrpc_normal.txt files need to be uploaded to colab storage first.
